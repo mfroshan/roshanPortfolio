@@ -10,8 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi, I am <span className="purple">M F ROSHAN </span>
             from <span className="purple"> Ernakulam,kerala.</span>
-            <br />I am pursuing BCA AT RAJAGIRI COLLEGE
-            Mesra.
+            <br />I am pursuing BCA AT RAJAGIRI COLLEGE.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
