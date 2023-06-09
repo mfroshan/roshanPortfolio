@@ -76,16 +76,6 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="/"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <AiOutlineTwitter />
-                </a>
-              </li>
-              <li className="social-icons">
-                <a
                   href="https://www.linkedin.com/in/roshan-francis-10827b249"
                   target="_blank"
                   rel="noreferrer"
